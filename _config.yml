@@ -11,7 +11,7 @@ date_format: "%b %-d, %Y"
 google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics:
+google_analytics: UA-85979281-1
 google_tag_manager:
 # Bing services
 bing_verification:
@@ -36,10 +36,10 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: tejawha
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: xxyzzzzz
 skype_username:
 steam_nickname:
 google_plus_id:
@@ -51,7 +51,7 @@ paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 # Change to 'true' to enable individual icons
 share_facebook: false
 share_twitter: false
@@ -65,8 +65,8 @@ share_hackernews: false
 
 text:
   pagination:
-    newer: 'Newer'
-    older: 'Older'
+    newer: '<-'
+    older: '->'
   share_buttons:
     text:         'Share this post!'
     facebook:     'Share on Facebook'
