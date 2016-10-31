@@ -1,17 +1,17 @@
 # Site settings
-title: Lorem Ipsum - Web Developer
-description: "A blog about lorem ipsum ..."
+title: Tejawha
+description: "..."
 baseurl: "" # the subpath of your site
 url: "http://tejawha.github.io"
 
 # User settings
-username: lorem ipsum
-user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
+username: Tejawha
+user_title: Dev. Game
+email: tejawha@gmail.com
+twitter_username: xxyzzzzz
+github_username:  tejawha
 gplus_username:  loremipsum
-disqus_username: loremipsum
+disqus_username: tejawha
 
 # Build settings
 markdown: kramdown
