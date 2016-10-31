@@ -1,111 +1,50 @@
 # Site settings
-title:       Tejawha
-email:       tejawha@gmail.com
-author:      Tejawha
-description: "Dev. Game."
-baseurl:     ""
-url:         "https://tejawha.github.io"
-date_format: "%b %-d, %Y"
+title: Lorem Ipsum - Web Developer
+description: "A blog about lorem ipsum ..."
+baseurl: "/space-jekyll-template" # the subpath of your site
+url: "http://victorvoid.github.io"
 
-# Google services
-google_verification:
-# Use either direct GA implementation or set up GTM account
-# - using both will skew your data (leave blank to not use at all)
-google_analytics: UA-85979281-1
-google_tag_manager:
-# Bing services
-bing_verification:
-
-# Optional features
-animated:             false
-show_related_posts:   false
-show_post_footers:    false
-show_social_icons:    true
-ajaxify_contact_form: false
-enable_mathjax: false
-extended_fonts: false
-
-# Disqus post comments
-# (leave blank to disable Disqus)
-disqus_shortname: tejawha
-
-# Facebook Comments plugin
-# (leave blank to disable Facebook Comments, otherwise set it to true)
-facebook_comments:
-facebook_appid:
-facebook_comments_number: 10
-
-# Social icons
-github_username: tejawha
-bitbucket_username:
-stackoverflow_id:
-twitter_username: xxyzzzzz
-skype_username:
-steam_nickname:
-google_plus_id:
-linkedin_username:
-angellist_username:
-medium_id:
-bitcoin_url:
-paypal_url:
-flattr_button:
-
-# Post sharing icons
-show_sharing_icons: false
-# Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
-share_googleplus: false
-share_linkedin: false
-share_digg: false
-share_tumblr: false
-share_reddit: false
-share_stumbleupon: false
-share_hackernews: false
-
-text:
-  pagination:
-    newer: '<-'
-    older: '->'
-  share_buttons:
-    text:         'Share this post!'
-    facebook:     'Share on Facebook'
-    twitter:      'Share on Twitter'
-    googleplus:   'Share on Google+'
-    linkedin:     'Share on LinkedIn'
-    digg:         'Share on Digg'
-    tumblr:       'Share on Tumblr'
-    reddit:       'Share on Reddit'
-    stumbleupon:  'Share on StumbleUpon'
-    hackernews:   'Share on Hacker News'
-  post:
-    updated:        'Updated'
-    minute_read:    'minute read'
-    related_posts:  'Related Posts'
-  index:
-    coming_soon: 'Coming soon...'
-  contact:
-    email:    'Email Address'
-    content:  'What would you like to say?'
-    subject:  'New submission!'
-    submit:   'Say Hello'
-    ajax:
-      sending:  'sending..'
-      sent:     'Message sent!'
-      error:    'Error!'
-  thanks: 'Thanks for contacting us. We will reply as soon as possible.'
-  og_locale: 'en_US'
+# User settings
+username: lorem ipsum
+user_title: Lorem Ipsum - FrontEnd
+email: lorem.lorem@ipsum.com
+twitter_username: loremipsum
+github_username:  loremipsum
+gplus_username:  loremipsum
+disqus_username: loremipsum
 
 # Build settings
-markdown:     kramdown
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
-paginate:     4
-sass:
-  compressed: true
-gems:
-  - jekyll-paginate
-  - jekyll-sitemap
-# https://github.com/jekyll/jekyll/issues/2938
-exclude: [vendor]
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+links:
+  - title: home
+    url: /
+  - title: my posts
+    url: /posts
+  - title: series
+    url: /series
+  - title: tags
+    url: /tags
+  - title: about me
+    url: /about
+# projects in header index
+projects:
+  - name: asciilang
+    url: https://github.com/victorvoid/asciilang
+  - name: vim-frontend
+    url: https://github.com/victorvoid/vim-frontend
+  - name: generator-capybara
+    url: https://github.com/victorvoid/generator-capybara 
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
