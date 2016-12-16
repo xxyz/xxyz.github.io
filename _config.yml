@@ -6,9 +6,8 @@ permalink:           pretty
 # Setup
 title:               XYZ
 tagline:             '...'
-description:         '......'
+description:         'Under Construction'
 url:                 https://tejawha.github.io
-baseurl:             ''
 paginate:            5
 
 # About/contact
@@ -19,3 +18,6 @@ author:
 
 # Custom vars
 version:             1.0.0
+
+# Plugins
+gems: [jekyll-paginate]

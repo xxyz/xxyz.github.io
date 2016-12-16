@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-[Under Construction]({{https://upload.wikimedia.org}}/wikipedia/en/4/4f/Under_construction.JPG)
+![Under Construction](https://upload.wikimedia.org/wikipedia/en/4/4f/Under_construction.JPG){:class="img-responsive"}
 
 <!---
 <p class="message">
