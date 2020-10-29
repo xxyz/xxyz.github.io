@@ -1,7 +1,5 @@
 ---
-layout: post
 title: 기믹패턴의 기초 (2)
-comments: true
 ---
 
 
