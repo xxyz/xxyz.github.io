@@ -9,9 +9,7 @@ title: 기믹패턴의 기초 (2)
 
 ## 지뢰노트
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/mBdZ2tCtse4" frameborder="0" allowfullscreen></iframe>
-
-위의 영상의 기믹처럼 일반노트로 기믹을 만들 경우 절대로 플레이 할 수 없는 패턴이 나옵니다. 따라서 앞으로 설명할 '노트 애니메이션'을 구현하려면 보이지만 플레이어가 처리하지 않아도 되는 지뢰노트가 거의 필수적이라고 할 수 있습니다. 하지만 BMSE와 iBMSc에서는 지뢰노트를 지원하지 않기 때문에 직접 텍스트 편집기를 이용해 편집해야하는 다소 번거로운 방법을 사용해야 합니다. [不可視地雷コンバータ for LR2](http://nekokan.dyndns.info/%7Eotlovers/guidance/guidance_4b.html)를 사용하면 그 수고를 다소 덜 수 있습니다.
+일반노트로 기믹을 만들 경우 절대로 플레이 할 수 없는 패턴이 나옵니다. 따라서 앞으로 설명할 '노트 애니메이션'을 구현하려면 보이지만 플레이어가 처리하지 않아도 되는 지뢰노트가 거의 필수적이라고 할 수 있습니다. 하지만 BMSE와 iBMSc에서는 지뢰노트를 지원하지 않기 때문에 직접 텍스트 편집기를 이용해 편집해야하는 다소 번거로운 방법을 사용해야 합니다. [不可視地雷コンバータ for LR2](http://nekokan.dyndns.info/%7Eotlovers/guidance/guidance_4b.html)를 사용하면 그 수고를 다소 덜 수 있습니다.
 
 ## 노트 애니메이션
 

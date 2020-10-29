@@ -10,7 +10,7 @@ title: ギミック譜面の基礎 (1)
 
 ## ギミック譜面とは?
 <div class = "message">
-    <iframe width="100%" height="360" src="https://www.youtube.com/embed/wXMtMbhNHMs" frameborder="0" allowfullscreen></iframe>
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/4FViN6GMryY" frameborder="0" allowfullscreen></iframe>
     <a href="http://manbow.nothing.sh/event/event.cgi?action=More_def&num=440&event=110">BOFU2016の秋の大ソフランまつりチームのLots Of Spices lots mineds譜面</a>
 </div>
 
@@ -21,6 +21,7 @@ title: ギミック譜面の基礎 (1)
 ## 開始する前に基礎知識
 
 上記のパターンを一見するとノートが逆に上がったりの間の間隔が変化するようだが、BMSでノート間の間隔は絶対に変わらないし、ノートを下以外の方向に動くようにすることはできません。下の図のように、非常に細長い紙の上にノートが描かれており、これがBPMに比例する速度で下に降りて行っていると思うと楽です。
+
 ![Music Box](/assets/2016-12-17/musicbox.jpg)
 
 ---

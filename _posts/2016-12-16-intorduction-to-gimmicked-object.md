@@ -6,7 +6,7 @@ title: 기믹패턴의 기초 (1)
 
 ## 기믹패턴이란?
 <div class = "message">
-    <iframe width="100%" height="360" src="https://www.youtube.com/embed/wXMtMbhNHMs" frameborder="0" allowfullscreen></iframe>
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/4FViN6GMryY" frameborder="0" allowfullscreen></iframe>
     <a href="http://manbow.nothing.sh/event/event.cgi?action=More_def&num=440&event=110">BOFU2016의 秋の大ソフランまつり팀의 Lots Of Spices lots mineds 패턴</a>
 </div>
 
@@ -17,6 +17,7 @@ title: 기믹패턴의 기초 (1)
 ## 시작하기 전에 기초지식
 
 위의 패턴을 언뜻보면 노트가 거꾸로 올라가거나 사이 간격이 변하는 것 같지만, BMS에서 노트 사이의 간격은 절대로 변하지 않으며, 노트를 아래 외의 방향으로 움직이게 할 수 없습니다. 아래 그림과 같이 아주 길쭉한 종이 위에 노트가 그려져 있고, 이것이 BPM에 비례하는 속도로 아래로 내려가고 있다고 생각하면 편합니다.
+
 ![Music Box](/assets/2016-12-17/musicbox.jpg)
 
 ---
