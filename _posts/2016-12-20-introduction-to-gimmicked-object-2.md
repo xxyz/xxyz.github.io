@@ -2,9 +2,6 @@
 title: 기믹패턴의 기초 (2)
 ---
 
-
-[part 1](https://tejawha.github.io/2016/12/16/intorduction-to-gimmicked-object/)
-
 이번 포스트에서는 지난번 포스트에서 설명한 '워프 정지'를 이용해서 부드러운 애니메이션을 만들어보는 방법을 적어보려고 합니다.
 
 ## 지뢰노트
