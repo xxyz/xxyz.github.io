@@ -1,10 +1,10 @@
-title: .xyz
+title: xyz.
 email: xyzxyzxxyz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   .
 twitter_username: xxyzzzzz
 github_username: xxyz
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
